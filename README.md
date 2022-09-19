@@ -9,7 +9,7 @@ Discord Developer
 * 🚀  Estoy trabajando en un bot de Discord llamado [BOT GC 2.0](http://discord.com/oauth2/authorize?client_id=933785571489353738&permissions=536870382718&scope=bot%20applications.commands)
 * 🧠  Estoy estudiando JavaScript & TypeScript
 
-### Skills
+### Lenguajes
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,15 +24,15 @@ Discord Developer
 </p>
 
 
-### Socials
+### Redes sociales
 
 <p align="left"> <a href="https://discord.com/users/802323372192301080" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Santixss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Santixss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/santixsa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Insignias
 
 <a href="https://github.com/Santixss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santixss&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Apóyame
 
 <a href="https://www.buymeacoffee.com/santixsa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
                   
