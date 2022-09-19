@@ -6,7 +6,7 @@ Discord Developer
 
 * 🌍  Vivo en Colombia
 * ✉️  Me puedes contactar en [santixsfrancocardona@gmail.com](mailto:santixsfrancocardona@gmail.com)
-* 🚀  Estoy trabajando en un bot de Discord llamado [BOT GC 2.0](http://discord.com/oauth2/authorize?client_id=933785571489353738&permissions=536870382718&scope=bot%20applications.commands)
+* 🚀  Estoy trabajando en un bot de Discord llamado [GC 2.0](http://discord.com/oauth2/authorize?client_id=933785571489353738&permissions=536870382718&scope=bot%20applications.commands)
 * 🧠  Estoy estudiando JavaScript & TypeScript
 
 ### Lenguajes
