@@ -6,7 +6,7 @@ Discord Developer
 
 * 🌍  I currently live in Colombia 
 * ✉️  You can contact me at [santixsfrancocardona@gmail.com](mailto:santixsfrancocardona@gmail.com)
-* 🚀  I'm working on a Discord bot called [RSK]([http://discord.com/oauth2/authorize?client_id=933785571489353738&permissions=536870382718&scope=bot%20applications.commands](https://discord.com/oauth2/authorize?client_id=1131626752649740328&scope=bot&permissions=1099511627775))
+* 🚀  I'm working on a Discord bot called [RSK](https://discord.com/oauth2/authorize?client_id=1131626752649740328&scope=bot&permissions=1099511627775)
 * 🧠  I am studying JavaScript & TypeScript
 
 ### Lenguajes
